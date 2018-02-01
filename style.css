@@ -1,0 +1,28 @@
+div {
+  height: 10vw;
+  width: 10vw;
+}
+
+.first {
+  background-color: red;
+}
+
+.second {
+  background-color: yellow;
+}
+
+.third {
+  background-color: blue;
+}
+
+.fourth {
+  background-color: green;
+}
+
+.fifth {
+  background-color: purple;
+}
+
+.sixth {
+  background-color: orange;
+}
